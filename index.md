@@ -1,24 +1,24 @@
 ---
 layout: page
-title: Best Cryptocurrency Faucets
+title: Faucets Cryptocurrency Terbaik
 comments: false
 img: https://ms.staleblock.com/assets/images/all-faucets.com-thumb.png
-alt: Cryptocurrency faucets are reward systems in a form of a website or an app that dispense free coins.
-desc: If you're new to crypto faucets this site is for you. Learn how to maximize the value of your time and effort while claiming from free bitcoin faucet sites.
+alt: Faucets cryptocurrency adalah sistem ganjaran dalam bentuk laman web atau aplikasi yang mengeluarkan duit syiling percuma.
+desc: Jika anda baru untuk krip kripto laman web ini adalah untuk anda. Ketahui cara memaksimumkan nilai masa dan usaha anda semasa menuntut dari tapak keran bitcoin percuma.
 URL: https://ms.staleblock.com/index.html
 ---
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css">
 
-If you're new to crypto faucets this site is for you. We list bitcoin and other digital currency faucets that are verified for their value and reputation. Usually people start trying-out faucets out of curiosity, or as a hobby, but with some knowledge and consistency such hobby can offer a good income. Our goal is to share the knowledge and to enable you to earn digital currency in the way that suits your interests and your life-style.
+Jika anda baru untuk krip kripto laman web ini adalah untuk anda. Kami menyenaraikan bitcoin dan faucets mata wang digital lain yang disahkan untuk nilai dan reputasi mereka. Kebiasaannya, orang ramai mula mencuba keran dari rasa ingin tahu, atau sebagai hobi, tetapi dengan pengetahuan dan konsistensi hobi semacam itu dapat memberikan pendapatan yang baik. Matlamat kami adalah untuk berkongsi pengetahuan dan membolehkan anda memperoleh mata wang digital dengan cara yang sesuai dengan minat dan gaya hidup anda.
 
-Continue reading: <a href="https://ms.staleblock.com/daily/2019/12/12/index.html">Getting Started with Bitcoin Faucets</a>.
+Teruskan membaca: <a href="https://ms.staleblock.com/daily/2019/12/12/index.html">Bermula dengan Faucets Bitcoin</a>.
 
 ---
-#### 2019's Favorite Faucets
+#### Faucets Kegemaran 2019
 
-A lot had changed since we first published this website. One, the price of the Bitcoin went up from circa 3,500 USD to over 10,000 USD occasionally reaching up to 12 or 13 thousands of US dollars. Such an increase in value had put many of the faucet websites out of business, as they could not afford giving away the promised rewards. Many have gone offline without distributing the amounts in your wallets, thus simply stealing your money. These are the risks that you need to be aware of and accept when investing your time or your money in cryptocurrency related services.
+Banyak telah berubah sejak pertama kali kami menerbitkan laman web ini. Satu, harga Bitcoin naik dari sekitar 3,500 USD hingga lebih dari 10,000 USD kadang-kadang mencapai hingga 12 atau 13 ribuan dolar AS. Peningkatan nilai sedemikian telah meletakkan banyak laman web keran dari perniagaan, kerana mereka tidak mampu memberikan ganjaran yang dijanjikan. Ramai yang telah offline tanpa mengagihkan jumlah dalam dompet anda, dengan itu hanya mencuri wang anda. Ini adalah risiko yang perlu anda perhatikan dan terima apabila melaburkan masa atau wang anda dalam perkhidmatan berkaitan cryptocurrency.
 
-Still, the following faucets sites remain loyal to their members and continue dispensing free satoshi:
+Namun, laman web faucets berikut tetap setia kepada ahli mereka dan terus membebaskan satoshi percuma:
 
 - <a href="http://bit.ly/www-adbtc" target="_blank">adBTC</a>
 - <a href="http://bit.ly/www-btcfox" target="_blank">BtcFox</a>
