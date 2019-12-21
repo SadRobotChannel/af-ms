@@ -42,4 +42,4 @@ Apakah pengalaman anda dengan krim crypto? Pernahkah anda mencuba salah seorang 
 
 Laman web ini, all-faucets.com difokuskan khusus pada keran cryptocurrency. Dan sementara nama domain menyiratkan bahawa kami akan menyenaraikan "semua" faucets, sebenarnya terdapat hanya segelintir faucets yang baik yang bernilai masa dan usaha anda. Walau bagaimanapun, terdapat banyak cara lain bagaimana anda boleh mendapatkan cryptocurrency - pertambangan, staking, IPO dan airdrops, cryto jobs dan sebagainya. Terdapat banyak peluang, tetapi anda memerlukan maklumat yang berkualiti untuk menggunakan kesempatan ini untuk kelebihan anda.
 
-Oleh sebab itu, saya telah memulakan laman komuniti baru, S<a href="https://www.staleblock.com/" target="_blank">StaleBlock.com</a>. Dunia crypto jauh di luar keran crypto! Sertai saya untuk membina komuniti crypto pintar di <i>StaleBlock.com</i>.
+Oleh sebab itu, saya telah memulakan laman komuniti baru, <a href="https://www.staleblock.com/" target="_blank">StaleBlock.com</a>. Dunia crypto jauh di luar keran crypto! Sertai saya untuk membina komuniti crypto pintar di <i>StaleBlock.com</i>.
