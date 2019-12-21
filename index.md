@@ -2,16 +2,16 @@
 layout: page
 title: Faucets Cryptocurrency Terbaik
 comments: false
-img: https://ms.staleblock.com/assets/images/all-faucets.com-thumb.png
+img: https://ms.all-faucets.com/assets/images/all-faucets.com-thumb.png
 alt: Faucets cryptocurrency adalah sistem ganjaran dalam bentuk laman web atau aplikasi yang mengeluarkan duit syiling percuma.
 desc: Jika anda baru untuk krip kripto laman web ini adalah untuk anda. Ketahui cara memaksimumkan nilai masa dan usaha anda semasa menuntut dari tapak keran bitcoin percuma.
-URL: https://ms.staleblock.com/index.html
+URL: https://ms.all-faucets.com/index.html
 ---
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css">
 
 Jika anda baru untuk krip kripto laman web ini adalah untuk anda. Kami menyenaraikan bitcoin dan faucets mata wang digital lain yang disahkan untuk nilai dan reputasi mereka. Kebiasaannya, orang ramai mula mencuba keran dari rasa ingin tahu, atau sebagai hobi, tetapi dengan pengetahuan dan konsistensi hobi semacam itu dapat memberikan pendapatan yang baik. Matlamat kami adalah untuk berkongsi pengetahuan dan membolehkan anda memperoleh mata wang digital dengan cara yang sesuai dengan minat dan gaya hidup anda.
 
-Teruskan membaca: <a href="https://ms.staleblock.com/daily/2019/12/12/index.html">Bermula dengan Faucets Bitcoin</a>.
+Teruskan membaca: <a href="https://ms.all-faucets.com/daily/2019/12/12/index.html">Bermula dengan Faucets Bitcoin</a>.
 
 ---
 #### Faucets Kegemaran 2019
@@ -36,3 +36,10 @@ Apakah pengalaman anda dengan krim crypto? Pernahkah anda mencuba salah seorang 
 
 <div id="commento"></div>
 <script src="https://cdn.commento.io/js/commento.js"></script>
+
+---
+#### Sertai Crypto-Community baru kami
+
+Laman web ini, all-faucets.com difokuskan khusus pada keran cryptocurrency. Dan sementara nama domain menyiratkan bahawa kami akan menyenaraikan "semua" faucets, sebenarnya terdapat hanya segelintir faucets yang baik yang bernilai masa dan usaha anda. Walau bagaimanapun, terdapat banyak cara lain bagaimana anda boleh mendapatkan cryptocurrency - pertambangan, staking, IPO dan airdrops, cryto jobs dan sebagainya. Terdapat banyak peluang, tetapi anda memerlukan maklumat yang berkualiti untuk menggunakan kesempatan ini untuk kelebihan anda.
+
+Oleh sebab itu, saya telah memulakan laman komuniti baru, S<a href="https://www.staleblock.com/" target="_blank">StaleBlock.com</a>. Dunia crypto jauh di luar keran crypto! Sertai saya untuk membina komuniti crypto pintar di <i>StaleBlock.com</i>.
