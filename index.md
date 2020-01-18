@@ -32,14 +32,13 @@ Namun, laman web faucets berikut tetap setia kepada ahli mereka dan terus membeb
 - <a href="http://bit.ly/www-free-dogecoin" target="_blank">Free-Dogecoin</a>
 - <a href="http://bit.ly/www-rollercoin" target="_blank">RollerCoin</a>
 
-Apakah pengalaman anda dengan krim crypto? Pernahkah anda mencuba salah seorang daripada mereka? Adakah anda mempunyai laman kegemaran?
+---
+#### Perbincangan Crypto
+
+Apakah pengalaman anda dengan krim crypto? Pernahkah anda mencuba salah seorang daripada mereka? Adakah anda mempunyai tapak kegemaran? <br>
+Tambah keran anda melalui bahagian komen di bawah!
+
+Untuk memberi komen, log masuk dengan alamat e-mel anda atau melalui sambungan selamat menggunakan salah satu akaun sedia ada anda dengan Google, Twitter, Github atau Gitlab.
 
 <div id="commento"></div>
 <script src="https://cdn.commento.io/js/commento.js"></script>
-
----
-#### Sertai Crypto-Community baru kami
-
-Laman web ini, all-faucets.com difokuskan khusus pada keran cryptocurrency. Dan sementara nama domain menyiratkan bahawa kami akan menyenaraikan "semua" faucets, sebenarnya terdapat hanya segelintir faucets yang baik yang bernilai masa dan usaha anda. Walau bagaimanapun, terdapat banyak cara lain bagaimana anda boleh mendapatkan cryptocurrency - pertambangan, staking, IPO dan airdrops, cryto jobs dan sebagainya. Terdapat banyak peluang, tetapi anda memerlukan maklumat yang berkualiti untuk menggunakan kesempatan ini untuk kelebihan anda.
-
-Oleh sebab itu, saya telah memulakan laman komuniti baru, <a href="https://www.staleblock.com/" target="_blank">StaleBlock.com</a>. Dunia crypto jauh di luar keran crypto! Sertai saya untuk membina komuniti crypto pintar di <i>StaleBlock.com</i>.
